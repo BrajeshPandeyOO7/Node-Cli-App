@@ -1,0 +1,17 @@
+{
+  "name": "window-cli",
+  "bin": {
+    "n-date": "./src/date-file.js"
+  },
+  "version": "0.0.1",
+  "description": "window command for short opreations",
+  "main": "index.js",
+  "type": "module",
+  "author": "brajesh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "moment": "^2.29.4"
+  }
+}
