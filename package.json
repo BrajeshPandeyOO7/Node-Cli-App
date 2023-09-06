@@ -4,6 +4,9 @@
     "n-date": "./src/date-file.js"
   },
   "version": "0.0.1",
+  "engines": {
+    "node": ">=16.0.0 <18.0.0"
+  },
   "description": "window command for short opreations",
   "main": "index.js",
   "type": "module",
